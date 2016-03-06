@@ -22,6 +22,7 @@ Here follows a record of my endevors of mastering the art of frying chicken.
 * Garlic powder
 * Thyme
 
+#### Notes
 
 1. Cook chicken in water bath at 65°C for 2.5+ hrs. Include water olive oil in bags.
   * @2.5 chicken had good taste and texture, but some gristle was still present.
