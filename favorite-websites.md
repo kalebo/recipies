@@ -10,6 +10,13 @@ Favorite Websites
 * [Modernist Cuisine](http://modernistcuisine.com/)
 * [New York Times Cooking](http://cooking.nytimes.com/)
 
+### Communities
+* [Seasoned Advice - StackExchange](http://cooking.stackexchange.com/)
+* [r/cooking](https://www.reddit.com/r/cooking)
+* [r/recipes](https://www.reddit.com/r/recipes)
+* [r/budgetfood](https://www.reddit.com/r/budgetfood)
+* [r/eatcheapandhealthy](https://www.reddit.com/r/eatcheapandhealthy)
+
 ### Interesting
 * [Cooking for Engineers](http://www.cookingforengineers.com/) -- interesting perspective
 * [Hillbilly House Wife](http://www.hillbillyhousewife.com/) -- good low cost, high yeld recepies
