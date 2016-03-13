@@ -1,6 +1,6 @@
 Sous vide fried chicken 
 =======
-rev. 1
+rev. 2
 
 Here follows a record of my endevors of mastering the art of frying chicken.
 
